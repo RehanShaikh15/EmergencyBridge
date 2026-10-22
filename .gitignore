@@ -1,0 +1,7 @@
+node_modules/
+frontend/.expo/
+frontend/.env
+backend/.env
+backend/.venv/
+__pycache__/
+*.py[cod]
